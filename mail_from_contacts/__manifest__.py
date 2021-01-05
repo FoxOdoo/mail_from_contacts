@@ -7,7 +7,7 @@
     'description': """
         Añade botón para acceder al formulario para redactar correos desde los contactos de clientes.
     """,
-    'version': '12.0.1.0',
+    'version': '13.0.1.0',
     'author': "Flash Software",
     'website': "http://www.flasof.com",
     'category': 'Customizations',
