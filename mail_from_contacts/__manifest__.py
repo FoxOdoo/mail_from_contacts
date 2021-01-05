@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 {
+<<<<<<< HEAD
     'name': "Mail from Contacts",
+=======
+    'name': "Mail From Contacts",
+>>>>>>> 14.0
     'summary': """
         Mail Form from Customer Contacts.
         """,
@@ -8,7 +12,7 @@
         Add button to access the form to compose emails from customer contacts.
         Only tested in CE.
     """,
-    'version': '12.0.1.0',
+    'version': '14.0.1.0',
     'author': "Flash Software",
     'website': "http://www.flashodoo.com",
     'category': 'Customizations',
