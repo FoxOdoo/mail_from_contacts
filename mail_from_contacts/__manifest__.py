@@ -20,7 +20,7 @@
     ],
     'images': [
         'static/description/icon.png',
-        'images/main_screenshot.png'
+        'static/description/main_screenshot.png'
     ],
    
 }
