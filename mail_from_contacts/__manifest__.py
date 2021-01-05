@@ -10,7 +10,7 @@
     """,
     'version': '12.0.1.0',
     'author': "Flash Software",
-    'website': "http://www.flasof.com",
+    'website': "http://www.flashodoo.com",
     'category': 'Customizations',
     'license': 'LGPL-3',
     'support': 'foxodoo@gmail.com',
