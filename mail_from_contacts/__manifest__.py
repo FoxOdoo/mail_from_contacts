@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Correo desde Contactos",
+    'name': "Mail from Contacts",
     'summary': """
-        Formulario de Correo desde Contactos de Clientes.
+        Mail Form from Customer Contacts.
         """,
     'description': """
-        Añade botón para acceder al formulario para redactar correos desde los contactos de clientes.
+        Add button to access the form to compose emails from customer contacts.
+        Only tested in CE.
     """,
     'version': '13.0.1.0',
     'author': "Flash Software",
