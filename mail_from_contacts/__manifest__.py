@@ -19,8 +19,7 @@
         'views/customer_form.xml',
     ],
     'images': [
-        'static/description/icon.png',
-        'static/description/main_screenshot.png'
+        'static/description/banner.png'
     ],
    
 }
