@@ -9,7 +9,7 @@
         Only tested in CE.
     """,
     'version': '14.0.1.0',
-    'author': "Flash Software",
+    'author': "FlashOdoo",
     'website': "http://www.flashodoo.com",
     'category': 'Customizations',
     'license': 'LGPL-3',
