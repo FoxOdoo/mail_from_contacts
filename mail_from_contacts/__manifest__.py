@@ -1,25 +1,28 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Mail from Contacts",
+    'name': "Correo desde Contactos",
+
     'summary': """
-        Mail Form from Customer Contacts.
+        Formulario de Correo desde Contactos de Clientes.
         """,
+
     'description': """
-        Add button to access the form to compose emails from customer contacts.
-        Only tested in CE.
+        Añade botón para acceder al formulario para redactar correos desde los contactos de clientes.
     """,
-    'version': '13.0.1.0',
-    'author': "FlashOdoo",
+
+    'author': "Flash Software",
     'website': "http://www.flashodoo.com",
+
     'category': 'Customizations',
-    'license': 'LGPL-3',
-    'support': 'foxodoo@gmail.com',
+    'version': '13.0.21.09.28',
+
     'depends': ['crm'],
+
     'data': [
         'views/customer_form.xml',
     ],
     'images': [
-        'static/description/banner.png'
+        'static/description/icon.png',
     ],
    
 }
