@@ -8,7 +8,7 @@
         Add button to access the form to compose emails from customer contacts.
         Only tested in CE.
     """,
-    'version': '14.0.1.0',
+    'version': '15.0.22.02.01',
     'author': "FlashOdoo",
     'website': "http://www.flashodoo.com",
     'category': 'Customizations',
